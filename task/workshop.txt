@@ -1,0 +1,5 @@
+Git add
+Git Commit
+Git reset
+Git branch
+Git merge
